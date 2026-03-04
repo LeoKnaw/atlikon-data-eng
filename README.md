@@ -137,6 +137,12 @@ Margin visibility, retention analysis, and inventory linkage remain future prior
 - New channel volatility
 - Limited profitability view
 
+<img width="1465" height="761" alt="image" src="https://github.com/user-attachments/assets/d8b058e3-495b-4d5c-858c-03c1865f8675" />
+
+<img width="1577" height="678" alt="image" src="https://github.com/user-attachments/assets/733ff75b-d3a3-443e-8a21-0c459b4539de" />
+
+
+
 ---
 
 ## 7. Key Learnings
